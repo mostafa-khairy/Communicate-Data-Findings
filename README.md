@@ -1,6 +1,12 @@
 # Communicate-Data-Findings-.
 Ford GoBike System Data
 
+
+# Dataset Overview
+This data set includes information about individual rides made
+in a bike-sharing system covering the greater San Francisco
+Bay area.
+
 ## Dataset
  - the dataset has 183412 rows and 16 columns.
  - The size is enough for analysis.
