@@ -14,7 +14,7 @@ Bay area.
  - Some columns have incorrect data types.
  - We could use some new columns. 
 
-## Findings
+## Summary of Findings
 
 - number of trip at the weekday is about three times more than in the weekend
 - number of male much more than female.
