@@ -1,4 +1,4 @@
-# Communicate-Data-Findings-.
+# Communicate-Data-Findings
 Ford GoBike System Data
 
 
